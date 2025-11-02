@@ -5,7 +5,7 @@ Project's the submission for IBM's Quantum Fall Fest Hackathon coordinated by QC
 
 ## Overview
 
-This project demonstrates a **novel integration** of quantum computing with fully homomorphic encryption (FHE), enabling computation on encrypted data with quantum speedup. Implemented entirely in C++17, it showcases how Quantum Fourier Transform (QFT) algorithms can theoretically accelerate cryptographic operations when executed on real quantum hardware.
+This project demonstrates quantum computing with fully homomorphic encryption (FHE), enabling computation on encrypted data with quantum speedup. Implemented entirely in C++17, it showcases how Quantum Fourier Transform (QFT) algorithms can theoretically accelerate cryptographic operations when executed on real quantum hardware.
 
 The simulation addresses the **practical challenge** of performing efficient homomorphic operations on encrypted data—a critical requirement for privacy-preserving cloud computing, secure multi-party computation, and confidential machine learning. By leveraging quantum algorithms, this approach reduces computational complexity from O(log² n) to O(n log n) quantum gates, demonstrating clear **quantum advantage**.
 
