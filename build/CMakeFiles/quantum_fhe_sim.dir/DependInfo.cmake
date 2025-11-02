@@ -1,0 +1,28 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/da999/Projects/qff_2025/quantum_fhe_sim/src/fhe/fhe_engine.cpp" "CMakeFiles/quantum_fhe_sim.dir/src/fhe/fhe_engine.cpp.o" "gcc" "CMakeFiles/quantum_fhe_sim.dir/src/fhe/fhe_engine.cpp.o.d"
+  "/home/da999/Projects/qff_2025/quantum_fhe_sim/src/main.cpp" "CMakeFiles/quantum_fhe_sim.dir/src/main.cpp.o" "gcc" "CMakeFiles/quantum_fhe_sim.dir/src/main.cpp.o.d"
+  "/home/da999/Projects/qff_2025/quantum_fhe_sim/src/quantum/gates.cpp" "CMakeFiles/quantum_fhe_sim.dir/src/quantum/gates.cpp.o" "gcc" "CMakeFiles/quantum_fhe_sim.dir/src/quantum/gates.cpp.o.d"
+  "/home/da999/Projects/qff_2025/quantum_fhe_sim/src/quantum/qft.cpp" "CMakeFiles/quantum_fhe_sim.dir/src/quantum/qft.cpp.o" "gcc" "CMakeFiles/quantum_fhe_sim.dir/src/quantum/qft.cpp.o.d"
+  "/home/da999/Projects/qff_2025/quantum_fhe_sim/src/quantum/qubit_register.cpp" "CMakeFiles/quantum_fhe_sim.dir/src/quantum/qubit_register.cpp.o" "gcc" "CMakeFiles/quantum_fhe_sim.dir/src/quantum/qubit_register.cpp.o.d"
+  "/home/da999/Projects/qff_2025/quantum_fhe_sim/src/quantum_accelerated_ops.cpp" "CMakeFiles/quantum_fhe_sim.dir/src/quantum_accelerated_ops.cpp.o" "gcc" "CMakeFiles/quantum_fhe_sim.dir/src/quantum_accelerated_ops.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

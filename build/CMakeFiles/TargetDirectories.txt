@@ -1,0 +1,3 @@
+/home/da999/Projects/qff_2025/quantum_fhe_sim/build/CMakeFiles/quantum_fhe_sim.dir
+/home/da999/Projects/qff_2025/quantum_fhe_sim/build/CMakeFiles/edit_cache.dir
+/home/da999/Projects/qff_2025/quantum_fhe_sim/build/CMakeFiles/rebuild_cache.dir
