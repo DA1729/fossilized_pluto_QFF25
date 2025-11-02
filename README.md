@@ -281,3 +281,6 @@ This is a pedagogical simulation demonstrating concepts:
 - Theoretical speedup assumes ideal quantum gates
 
 The value of this simulator is demonstrating the **algorithmic approach** and **complexity benefits** that would manifest on real quantum hardware, providing a blueprint for future quantum-accelerated cryptographic systems.
+
+## LLM Usage Disclosure
+I used Gemini 2.5 Pro for writing the `README.md` and the `CMakeList.txt`
